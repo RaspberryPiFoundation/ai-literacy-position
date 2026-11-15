@@ -1,0 +1,26 @@
+title: Our view on AI literacy
+description: A position statement on AI literacy, drawing on the Experience AI programme.
+
+# Theme: Just the Docs, loaded remotely so no installation is needed.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# IMPORTANT: if the site address ends in /something (a project site such as
+# https://your-org.github.io/ai-literacy-position/) set baseurl to that path.
+# If you use a custom domain or an organisation site, leave it empty.
+baseurl: ""   # for example: "/ai-literacy-position"
+
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+color_scheme: light
+
+footer_content: "Draft position statement. Content is under development."
+
+# Files that should live in the repository but not appear on the website.
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - pull_request_template.md
