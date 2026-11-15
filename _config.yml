@@ -9,7 +9,7 @@ plugins:
 # IMPORTANT: if the site address ends in /something (a project site such as
 # https://your-org.github.io/ai-literacy-position/) set baseurl to that path.
 # If you use a custom domain or an organisation site, leave it empty.
-baseurl: ""   # for example: "/ai-literacy-position"
+baseurl: "https://raspberrypifoundation.github.io/ai-literacy-position/"  
 
 search_enabled: true
 heading_anchors: true
